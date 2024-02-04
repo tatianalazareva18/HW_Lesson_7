@@ -1,0 +1,14 @@
+/home/tatiana/Documents/Изучение С#/Рекурсия/Task_1/bin/Debug/net8.0/Task_1
+/home/tatiana/Documents/Изучение С#/Рекурсия/Task_1/bin/Debug/net8.0/Task_1.deps.json
+/home/tatiana/Documents/Изучение С#/Рекурсия/Task_1/bin/Debug/net8.0/Task_1.runtimeconfig.json
+/home/tatiana/Documents/Изучение С#/Рекурсия/Task_1/bin/Debug/net8.0/Task_1.dll
+/home/tatiana/Documents/Изучение С#/Рекурсия/Task_1/bin/Debug/net8.0/Task_1.pdb
+/home/tatiana/Documents/Изучение С#/Рекурсия/Task_1/obj/Debug/net8.0/Task_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/tatiana/Documents/Изучение С#/Рекурсия/Task_1/obj/Debug/net8.0/Task_1.AssemblyInfoInputs.cache
+/home/tatiana/Documents/Изучение С#/Рекурсия/Task_1/obj/Debug/net8.0/Task_1.AssemblyInfo.cs
+/home/tatiana/Documents/Изучение С#/Рекурсия/Task_1/obj/Debug/net8.0/Task_1.csproj.CoreCompileInputs.cache
+/home/tatiana/Documents/Изучение С#/Рекурсия/Task_1/obj/Debug/net8.0/Task_1.dll
+/home/tatiana/Documents/Изучение С#/Рекурсия/Task_1/obj/Debug/net8.0/refint/Task_1.dll
+/home/tatiana/Documents/Изучение С#/Рекурсия/Task_1/obj/Debug/net8.0/Task_1.pdb
+/home/tatiana/Documents/Изучение С#/Рекурсия/Task_1/obj/Debug/net8.0/Task_1.genruntimeconfig.cache
+/home/tatiana/Documents/Изучение С#/Рекурсия/Task_1/obj/Debug/net8.0/ref/Task_1.dll
